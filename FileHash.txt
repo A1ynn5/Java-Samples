@@ -1,0 +1,18 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+MD5             7DE96604BF44A332D44B0004810E8FD7                                       CitySort.java
+MD5             89679D55129B870EDC18EDF5329FDFE3                                       Days.java
+MD5             93B72250346876104DBB72EE5380655A                                       Dependents.java
+MD5             E4B20BEF9E35A0A96A9C058378850D5E                                       DiceRollSim.java
+MD5             3F65E617C44473043907F62EDF6FE424                                       Hexagons.java
+MD5             ED5FC97F4CD049766FFACB251F486AC3                                       NumberCount.java
+MD5             813CDF79AA0C4E1A7B663B16653FC182                                       NumberFilter.java
+MD5             4EF1255164212F823EADB15C2E14DA2F                                       NumberGen.java
+MD5             16EFF9B7E07E91DF990E28C4FAC588B5                                       README.txt
+MD5             F28ED7E07F1A16571F4BD661D5A232BC                                       StringFilter.java
+MD5             DCD0CBA5F40E8D409EBDEC128BCEA1F0                                       StringProperties.java
+MD5             7D0DC516D7A5BC859B2DE0C308A79418                                       Substrings.java
+MD5             CEB281C573819CC473BE910275FE4151                                       TriangleCoords.java
+MD5             5A66B31E11C167848F9849B9BEFFD447                                       USD_GBP.java
+
